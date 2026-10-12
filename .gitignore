@@ -1,0 +1,6 @@
+*.exe
+*.db
+*.jdb
+*.key
+*.json
+cmd/
